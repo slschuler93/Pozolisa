@@ -1,15 +1,13 @@
-body{
+body {
   display: inline;
   max-width: fit-content;
   margin: auto;
   background-color: darkgoldenrod;
-
 }
 
 ul {
-    display: inline;
-    
-  }
+  display: inline;
+}
 
 .fit-picture {
   width: 500px;
