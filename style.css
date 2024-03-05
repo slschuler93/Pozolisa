@@ -1,0 +1,10 @@
+body > header > nav {
+    display: inline;
+}
+
+.fit-picture {
+    width: 500px;
+    position: fixed;
+    padding-left: 20%;
+    padding-right: 80%;
+    }
