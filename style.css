@@ -1,10 +1,19 @@
-body > header > nav {
+body{
   display: inline;
+  max-width: fit-content;
+  margin: auto;
+  background-color: darkgoldenrod;
+
 }
+
+ul {
+    display: inline;
+    
+  }
 
 .fit-picture {
   width: 500px;
   position: fixed;
-  padding-left: 21%;
-  padding-right: 79%;
+  padding-left: 33%;
+  padding-right: 67%;
 }
